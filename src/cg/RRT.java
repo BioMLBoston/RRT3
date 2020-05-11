@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 import pdb.PDBAtom;
 
 /**
- * @author Dong Luo 2012-07-02
+ * @author Amir Vajdi 2017-05-23
  *
  */
 
