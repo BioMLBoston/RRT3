@@ -5,7 +5,7 @@ import utilities.Vector;
 import utilities.Definitions.AminoAcidTypes;
 
 /**
- * @author Dong Luo 2012-08-27
+ * @author Amir Vajdi 2017-05-23
  *
  */
 
