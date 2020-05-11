@@ -1,7 +1,7 @@
 package cg;
 
 /**
- * @author Dong Luo 2012-05-23
+ * @author Amir Vajdi 2017-05-23
  *
  */
 
